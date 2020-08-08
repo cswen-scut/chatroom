@@ -1,4 +1,4 @@
-# C++基于epoll实现聊天室
+# 基于C++和epoll实现的聊天室
 
 - 客户端涉及到的技术点
    - 常用QT控件(QWidget, QListWidget, QLabel, QPushButton)
