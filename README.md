@@ -46,7 +46,7 @@
   - 6.运行步骤5生成的可执行文件
  
 - 通信协议
-  - 开始1B表示这个数据包是登录请求、发送请求、登出请求等(详情请见./server/chatroom/ProtocolHead/protocolmsg.h)
+  - 开始1B表示这个数据包是登录请求、发送请求、登出请求等(详情请见./server/ProtocolHead/protocolmsg.h)
   - 接下来2B表示用户的账号
   - 接下来1B表示数据包的数据格式，文本或图片
   - 接下来4B表示数据的大小
