@@ -30,7 +30,7 @@
   然后将chatroom.exe所在的文件夹路径加入环境变量，再直接运行chatroom.exe
   
 - 服务端使用方式
-  - 1.安装jsoncpp库, 详情请见https://github.com/open-source-parsers/jsoncpp，
+  - 1.安装jsoncpp库, 详情请见https://github.com/open-source-parsers/jsoncpp
     - 安装完后将./vcpkg/installed/x64-linux/include/json拷贝到/usr/local/include/
     - 将./vcpkg/installed/x64-linux/lib/libjsoncpp.a拷贝到/usr/local/include
     - 在/etc/profile里追加
